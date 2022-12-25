@@ -1,5 +1,5 @@
 import streamlit as st 
 import jieba
-st.head("ss")
+st.markdown("ss")
 st.title("new")
 st.write('we')
