@@ -1,2 +1,2 @@
- import streamlit as st 
- st.write('we')
+import streamlit as st 
+st.write('we')
